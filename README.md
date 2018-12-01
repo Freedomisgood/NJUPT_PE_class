@@ -1,16 +1,12 @@
-# NJUPT_PE_class
-
-
+## NJUPT_PE_class
 
 没填写时TextBox1可视，填写时提交的是TextBox2
 
-![Nonetbody](https://github.com/Freedomisgood/NJUPT_PE_class/blob/master/images/Nonetbody.jpg)
-
-![pic1](G:\pachong\我的实战\NJUPT_PE_class-master\readme\pic1.jpg)
+![pic1](https://github.com/Freedomisgood/NJUPT_PE_class/blob/master/readme/pic.jpg)
 
 是这样的  比如我在一个输入框书写一个名字后  需要点击屏幕空白地区  来确认我输入的没问题
 
- ![pic](G:\pachong\我的实战\NJUPT_PE_class-master\readme\pic.jpg)
+![pic1](https://github.com/Freedomisgood/NJUPT_PE_class/blob/master/readme/pic2.jpg)
 
 ```
 ele_psw1 = driver.find_element_by_xpath('//*[@id="Textbox1"]')
